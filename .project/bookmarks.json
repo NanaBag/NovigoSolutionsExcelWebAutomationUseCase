@@ -1,0 +1,15 @@
+{
+  "Value": {
+    "Flows/WebExcelAutomation.xaml": [
+      {
+        "IsEnabled": true,
+        "Annotation": null,
+        "Id": "37232638-3b3d-4177-b237-9b68922fadc0",
+        "ActivityIdRef": "NGetText_5",
+        "ActivityId": "1.576",
+        "ActivityName": "Get Text 'Market Cap'",
+        "IsTransient": false
+      }
+    ]
+  }
+}
